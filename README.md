@@ -20,16 +20,16 @@
 
 ---
 
-### 🤝 Connect With Me
-
+<h3 align="left">🤝 Connect With Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akshith-mynampati" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
   <a href="https://www.leetcode.com/akshithreddymynampati4" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
