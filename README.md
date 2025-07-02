@@ -20,7 +20,8 @@
 
 ---
 
-<h3 align="left">🤝 Connect With Me</h3>
+### 🤝 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/akshith-mynampati" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
@@ -29,7 +30,6 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
@@ -57,7 +57,7 @@
 ### 💡 Featured Projects
 
 - 🔤 **SignSpeak** – Translating speech to Indian Sign Language using NLP & computer vision  
-- 📦 **SLDM** – A Short Language Diffusion Model for context-aware generation  
+- 🤖 **Wingman** – An AI agent for **automating LinkedIn posts** with personalized content generation  
 - 🛣️ **Driver Intention Prediction** – Anticipating maneuvers using LSTM and behavioral data  
 - 🌾 **AISH** – Soil Health Monitoring system using satellite imagery & ML  
 
